@@ -19,7 +19,7 @@ export const metadata: Metadata = {
   title: "My Reservasi",
   description: "My reservasi",
   icons: {
-    icon: "/logo.PNG",
+    icon: "/logo.png",
   }
 };
 
