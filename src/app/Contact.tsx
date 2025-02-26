@@ -3,7 +3,7 @@ import Link from "next/link";
 
 export function Contact() {
   return (
-    <div className="bg-green-400 py-8">
+    <div id="contact" className="bg-green-400 py-8">
       <div className="text-center">
         <h1 className="text-4xl font-bold text-gray-800">
           We are here for you, <br /> contact us at <span className="text-orange-500">anytime</span>

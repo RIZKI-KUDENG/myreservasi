@@ -11,7 +11,7 @@ const images = [
 
 export function Service() {
   return (
-    <main className=" w-full px-4 py-8 sm:px-8 md:px-12">
+    <main id="services" className=" w-full px-4 py-8 sm:px-8 md:px-12">
       <h1 className="text-center text-4xl font-bold tracking-wide text-black m-4 sm:text-5xl md:text-6xl lg:text-7xl">
         Our Services
       </h1>

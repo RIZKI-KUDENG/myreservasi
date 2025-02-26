@@ -3,7 +3,7 @@ import { InfiniteMovingCards } from "@/app/components/movingCards";
 
 export function Testimonials() {
   return (
-    <div className="h-screen rounded-md flex flex-col antialiased bg-white dark:bg-black dark:bg-grid-white/[0.05] items-center justify-center relative overflow-hidden pb-10">
+    <div id="testimonials" className="h-screen rounded-md flex flex-col antialiased bg-white dark:bg-black dark:bg-grid-white/[0.05] items-center justify-center relative overflow-hidden pb-10">
         <h1
         className="text-7xl max-sm:text-4xl font-bold text-center tracking-wide m-4  text-black"
         >Testimonials</h1>

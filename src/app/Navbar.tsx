@@ -11,12 +11,12 @@ export function Navbar() {
     },
     {
       name: "Services",
-      link: "/services",
+      link: "#services",
 
     },
 {
     name: "Testimonials",
-    link: "/testimonials"
+    link: "#testimonials"
 },
   ];
   return (
